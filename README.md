@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there ![RickRollRickAshleyGIF](https://github.com/Kiransandilya/kiransandilya/assets/93883566/1b9b3838-191e-4401-9a54-50c0966bb587)
+
 
 <!--
 **Kiransandilya/kiransandilya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
