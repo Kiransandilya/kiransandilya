@@ -1,7 +1,7 @@
 
 
 
-<h1 align="center" style="color: #808080;">Hi there <img src="https://github.com/Kiransandilya/kiransandilya/assets/93883566/6ceae26d-db08-432e-a1af-aca8457e6c0d" height="100" width="90", <!-- "キラン サンディリア"  --> Myself "Kiran Sandilya aka " ク サン "</h1>
+<h1 align="center" style="color: #808080;">Hi there <img src="https://github.com/Kiransandilya/kiransandilya/assets/93883566/6ceae26d-db08-432e-a1af-aca8457e6c0d" height="100" width="90", <!-- "キラン サンディリア"  --> Myself "Kiran Sandilya" aka " ク サン "</h1>
 <img src="https://github.com/Kiransandilya/kiransandilya/assets/93883566/1b9b3838-191e-4401-9a54-50c0966bb587" height="100" width="90" align="right">
 <h3 align="center" style="color: #808080;">A passionate computer researcher</h3>
 
